@@ -2,6 +2,10 @@
 
 Welcome to the Music Controller project! This project is a Spotify-like music controller built using HTML, CSS, and JavaScript. It mimics some of the core functionalities of Spotify, allowing users to play music, control playback, and view playlists.
 
+Live Preview Link : [Spotify-Clone](https://decoratora.in/spotify-clone/) : I have used a lite server , so it might take some time to load the images and audio files.
+
+
+Screenshot
 ![Spotify Clone Screenshot](assets/images/screenshot.png)
 
 ## Features
