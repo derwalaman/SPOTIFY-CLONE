@@ -5,7 +5,8 @@ Welcome to the Music Controller project! This project is a Spotify-like music co
 ## Live Preview Link
 
 I have used a lite server , so it might take some time to load the images and audio files.
-[Spotify-Clone](https://decoratora.in/spotify-clone/)
+
+Click Here : [Spotify-Clone](https://decoratora.in/spotify-clone/)
 
 
 ## Screenshot
